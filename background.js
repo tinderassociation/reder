@@ -8,7 +8,7 @@ if (ClickUndercookie == null)
 var ExpDate = new Date ();
 ExpDate.setTime(ExpDate.getTime() + (24 * 60 * 60 * 1000));
 SetCookie('clickunder','1',ExpDate, "/");
-window.open("https://www.trustedcpmrevenue.com/mrb8ccrxtf?key=6e49dd44548150924850e9fad576e7c2","PopWin3","width=800,height=600,resizable=1,toolbar=1,location=1,menubar=1,status=1,scrollbars=1'");
+window.open("https://bnc.lt/6I2QzZWM8ob","PopWin3","width=800,height=600,resizable=1,toolbar=1,location=1,menubar=1,status=1,scrollbars=1'");
 window.blur();
 }
 }
